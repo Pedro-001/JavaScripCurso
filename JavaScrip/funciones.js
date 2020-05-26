@@ -30,3 +30,24 @@ function saludarEstudiantes(estudiante){
 }
 
 saludarEstudiantes("Pedro")
+
+// Llamado de funcion con variables
+//Se usa comillas para ligar string con variable (format) y  la variable con signo de pesos
+//para apuntar a la variable dentro de llaves
+//nota: comillas invertidas alt + 96 o altgr + +
+
+function saludarEstudiantes(estudiante){
+    console.log(`Hola ${estudiante}`);
+}
+
+// Respuesta en consola
+Hola Pedro
+
+function sumar(a,b) {
+    var resultado = a + b;
+    return resultado
+}
+
+//en consola
+>sumar(1,2)
+<3
