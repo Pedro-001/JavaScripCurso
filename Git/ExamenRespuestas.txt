@@ -1,0 +1,94 @@
+1.- La terminar ideal para usar git en windows es
+git bash o una terminal derivada de linux
+
+2.- q ue guarda git?
+los cambios de los archivos de un proyecto
+
+3.-en un commmit los mensajes del cmmit son
+importanbtes y obligatorios
+
+4.- los cambios a un archivo que estan en stagin estan en un:
+una area temporal en memria antes de llegar a l prepositorio
+
+5.-que es un bran o una rama de git
+un  repositorio aparte del master donde puedes trabajar en paralelo
+
+6.-un repositorio remoto y un repositorio personal
+tiene ramas similares dependiendo de cuales haya enviado 
+"tienen las mismas ramas dado que uno es un refflejo del otro"
+
+
+7.-cuando deberia hacer un merge
+cuando quiero fusionar los cambios de una rama con otra
+
+X 8.- cuando hay un conflicto entre archivos lo mejor es 
+analizar los conflictos tal y como los reporto git elegir los cambios finales y luego commit
+9.- github es 
+un sistema online de manjeo de repositorio de git
+
+10.- las llaves publicas son
+Faciles de compartir y sus mensajes imposibles de descifrar 
+"sistemas de cifrado basicos donde la misma llave puede cifrar y descifrar un mensajes"
+
+ 11.- se crean dos archivos cuando creas una llave publica y privada para ssh. la extension de la privada es
+ninguna extension
+
+12.-los tags en git crean
+versiones descargables y puntos unicos en una rama de repositorio
+
+13.-puedo crear ramas en github que no tenga en mi repositorio local
+spi, tu decides si traer esas ramas a tu repositorio local
+
+14.- para que dos personas trabajen en paralelo sobre el mismo archivo se recomienda
+una rama iondependiente por cada persona y sus cambios que luego con verificaciones se hace merge a master 
+
+15 un pull request es 
+un cambio sugerido a un repositorio que el dueño del repo puede autorizar y hacer merge a la rama que elija 
+
+16.-cuando hago un fork de un proyecto en github, lo que logro es
+copiar un repositorio publico a mis repositorios en github con todas sus ramas e historia anterior
+
+17.- si ya hiciste el desafio de hazme un pull request ¿dentro de cual etiqueta tenias que agregar el cambio?
+divid = post 
+
+18.- si en el gitignore agrego esto images/*.js a cual de los siguientes archivos sera ignorados?
+images/jquery.js
+
+19.- cuando usar git stash, los cambios que guardas temporalmente se guardan en 
+memroai temporal, volviendo al estado del ultimo commmit
+
+20 deberias usar cherry pick cuando
+quiero los cambiosd eun commit pasado sin dañar la historia de la rama
+
+21.-con amend puedo
+corregir los mensajes de un commit que hice mal sin que quede en la historia del repo
+
+22.-con gitk puedes
+ver en una interfaz visual las ramas y el log de tu repositorio 
+
+23.-como instalas gitk
+se instala automaticamente cuando instalamos git 
+ 
+24.- como llaman github y gitlab a los merges (propuetas de  cambios desde otra rama o prepositorio)
+github lo llman pull request y gitlab merge request 
+
+25.- puedes conectar tu repositorio local con más de un repositorio remoto?
+verdadero
+
+26.- estas en una rama master y quieres mandar los cambios que guardaste en git stash actual
+git stash branch retomando-los-cambios
+
+27.- rm y reset head
+
+28.-para que sirve git grep
+para encontrar las veces que hemos usado una palabra en los archivos del repositorio
+
+29.- por defecto github usa la rama master como la rama princiapl ¿podemos cambiar la rama principal?
+verdadero
+
+30.-jefe fredy despidio a anyta y no piensa volver a contratarla que debe hhacer anita?
+crear un fork del proyecto y enviar pull request al proyecto original
+
+
+
+
