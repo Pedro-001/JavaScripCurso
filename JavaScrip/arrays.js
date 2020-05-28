@@ -28,7 +28,14 @@ mutar los arrays y su interior
     var nombreVariable = ["aqui", "se", "agrega", "los", "valores"];
     var agregarnombreVariable = nombreVariable.unshift(elemento)
 
+-agregar elementos push
+os permite agregar uno o más elementos al final de un array.
+    let numArraya  =  [1,2,3,4,5]
 
+    function newNum(){
+        agregar elementos
+        NumArray.push(6,7)
+    }
 
 -quitar elementos:
 
